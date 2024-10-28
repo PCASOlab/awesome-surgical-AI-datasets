@@ -15,10 +15,12 @@
 | Endoscapes-CVS201 | Video | Lap | Cholecystectomy | N | N | N | N | N | N | 201 | [link](https://github.com/CAMMA-public/Endoscapes) |
 | Endoscapes-BBox201 | Video | Lap | Cholecystectomy | Box | Y | Box | N | N | N | 201 | [link](https://github.com/CAMMA-public/Endoscapes) |
 | Endoscapes-Seg50 | Video | Lap | Cholecystectomy | Pixel | Y | Pixel | N | N | N | 50 | [link](https://github.com/CAMMA-public/Endoscapes) |
+| StereoMIS        | Video LR | Lap | Animal | - | 
 
 
 ## 3D/4D
 
-| Dataset | Modality | Procedure | Instrument (p/b/f) | Instrument ID | Human (p/b/f) | Verb     | Triplet | Phase | Scene graph | N cases | Link |
-|:--------|:--------:|----------:|:------------------:|:-------------:|:-------------:|:--------:|:-------:|:-----:|:-----------:|:--------|------|  
-| 4D-OR   | RGB-D    |  -        | Box (3D)           | ?             | Box (6D)      | Role     | N       | Y     | Y           |6734     | [link](https://github.com/egeozsoy/4D-OR) |
+| Dataset | Modality      | Camera motion | Procedure | Scene | Instrument (p/b/f) | Instrument ID | Human (p/b/f) | Verb     | Triplet | Phase | Scene graph | N cases | Link |
+|:--------|:-------------:|:-------------:|:---------:|:-----:|:------------------:|:-------------:|:-------------:|:--------:|:-------:|:-----:|:-----------:|:-------:|:----:| 
+| 4D-OR   | RGB-D Video   |  -            |  -        | Room  |   Box (3D)         |               | Box (6D)      | Role     | N       | Y     | Y           |6734     | [link](https://github.com/egeozsoy/4D-OR) |
+| StereoMIS| Stereo Video | Forward Kinematics | Animal | Lap |                    |               |               |          |         |       |             | 11      |  [link](https://zenodo.org/records/7727692)|
