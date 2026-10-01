@@ -35,3 +35,9 @@
 | MICCAI EndoVis 2018 | Video | Robotic surgery | [challenge](https://endovis.grand-challenge.org/EndoVis2018/) |
 | MICCAI EndoVis 2019 | Video | Robotic surgery | [challenge](https://endovis.grand-challenge.org/EndoVis2019/) |
 | SCARED | RGB-D Video | Endoscopic scene understanding | [challenge](https://endovissub2019-scared.grand-challenge.org/) |
+| SurgAtlas | Video | 15,291 videos / 2,391 hours / 18 specialties / 5,000+ procedures; raw open and MIS recordings | — |
+| SurgVU | Video + system data | Da Vinci console-view training exercises on porcine tissue; synchronized video and system telemetry | — |
+| AVOS | Video | 1,997 open-surgery videos across 50 countries and 23 procedure types; tool/hand and keypoint annotations | — |
+| SLAM | Video | 4,097 clips across 34 patient directories; laparoscopic cholecystectomy and appendectomy with 7 action labels | — |
+| Surg-3M | Video | 4,000+ surgical videos totaling 938 hours; curated, high-quality surgical footage | — |
+| TEMSET-24K | Video | De-identified multi-part endoscopic recordings and microclips for timeline segmentation and video analytics | — |
