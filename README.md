@@ -24,3 +24,14 @@
 |:--------|:--------:|:-------------:|:---------:|:-----:|:------------------:|:-------------:|:-------------:|:----:|:-------:|:-----:|:-----------:|:-------:|:-----|
 | 4D-OR | RGB-D Video | - | - | Room | Box (3D) | - | Box (6D) | Role | N | Y | Y | 6734 | [GitHub](https://github.com/egeozsoy/4D-OR) |
 | StereoMIS | Stereo Video | Forward Kinematics | Animal | Lap | - | - | - | - | - | - | - | 11 | [Zenodo](https://zenodo.org/records/7727692) |
+
+## Additional notable surgical datasets
+
+| Dataset | Modality | Procedure | Link |
+|:--------|:--------:|:---------:|:-----|
+| CATARACTS | Video | Cataract | [challenge](http://cataracts.grand-challenge.org/) |
+| M2CAI16 Workflow Challenge | Video | Cholecystectomy | [Synapse](https://www.synapse.org/#!Synapse:syn31937149) |
+| MICCAI EndoVis 2017 | Video | Robotic surgery | [challenge](https://endovis.grand-challenge.org/EndoVis2017/) |
+| MICCAI EndoVis 2018 | Video | Robotic surgery | [challenge](https://endovis.grand-challenge.org/EndoVis2018/) |
+| MICCAI EndoVis 2019 | Video | Robotic surgery | [challenge](https://endovis.grand-challenge.org/EndoVis2019/) |
+| SCARED | RGB-D Video | Endoscopic scene understanding | [challenge](https://endovissub2019-scared.grand-challenge.org/) |
